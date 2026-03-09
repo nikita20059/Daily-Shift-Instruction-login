@@ -58,7 +58,7 @@ This project provides a modern login UI that can be integrated with a backend sy
 <img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/1a0e2e41-1de0-42fb-88c1-71fe53a748f0" />
 
 
-
+file:///C:/Users/6000_N1B/Videos/Captures/Analyzer%20Dashboard%20-%20Google%20Chrome%202026-03-05%2014-16-47.mp4
 
 ## Installation
 
