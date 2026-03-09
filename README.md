@@ -58,6 +58,8 @@ This project provides a modern login UI that can be integrated with a backend sy
 <img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/1a0e2e41-1de0-42fb-88c1-71fe53a748f0" />
 
 
+
+
 ## Installation
 
 Clone the repository
